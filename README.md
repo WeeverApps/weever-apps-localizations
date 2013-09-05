@@ -29,4 +29,24 @@ We're using ISO Language Codes (<http://www.lingoes.net/en/translator/langcode.h
 
 As examples, **en-CA** referrs to **English-Canada**, and **ar-OM** referrs to **Arabic-Oman**.
 
-**NOTE: All files should remain using UTF-8 as the encoding, in order to support non-latin alphabets.**
+**How do I add a new language?**
+
+Simply fork this repository (sign up for Github if you have not -- it's free), then create a new file based on your language. If you're not sure the filename to give it, just use the name of the language, we'll fix it later. Then, copy and paste the contents from one of the English language files (such as *en-US.ini*) and go through and replace each language phrase with your language.
+
+**How do I let you know I have updates or a new language for you?**
+
+Simply do a Pull Request. It will notify us, and we'll merge it in to our codebase.
+
+**What if I don't want to use Github?**
+
+Just copy one of the files from here, do the work, and open a support ticket with us with the language file attached.
+
+**How long does it take before the new language is available in my app?**
+
+Not long, give it a business day or so.
+
+Notes
+=====
+
+- All files should remain using UTF-8 as the encoding, in order to support non-latin alphabets.
+- Keep your language strings general, not tuned to your app specifically. Your language strings will be available to all apps once deployed and will likely be corrected by someone else later. If you need some specific language in your app that is very specific to your app, please contact support.
