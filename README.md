@@ -47,7 +47,7 @@ Not long, give it a business day or so.
 
 **Can I leave a comment in a language file?**
 
-Yes, INI files will ignore any line starting with a semi-colon (**;**), comments may be left there. Note that this repository is public, so if you add contact information be aware it will be available for others to see.
+Yes, INI files will ignore any line starting with a semi-colon (;), comments may be left there. Note that this repository is public, so if you add contact information be aware it will be available for others to see.
 
 Notes
 =====
