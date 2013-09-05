@@ -14,3 +14,5 @@ FAQ
     ANOTHER_WORD   = "Another word"
   
 Quotes inside the quote marks (") should be indicated using HTML entities, such as **&quote;**. See here for a list of codes: http://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references
+
+**NOTE: All files should remain using UTF-8 as the encoding, in order to support non-latin alphabets.**
